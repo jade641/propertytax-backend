@@ -3,3 +3,4 @@ obj/
 uploads/
 .env
 appsettings.Development.json
+appsettings.Development.json
